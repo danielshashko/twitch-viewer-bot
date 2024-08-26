@@ -18,8 +18,8 @@ the free proxies i am trying to scrape are all garbage. they are not even able t
 i noticed this behaviour from __all__ free proxies sites out there. i really question their existence.  
 if they are not able to handle head requests, what could they be used for?
 
-the best option out there is probably [luminati.io](https://luminati.io/). they offer a pay-as-you-go plan with unlimited proxies and pay by bandwidth.  
-their datacenter ips cost 0.6 euro per gigabyte and residential ips 25 euro per gigabyte which is kinda expensive.  
+the best option out there is probably [Bright Data](https://brightdata.com). they offer a pay-as-you-go plan with unlimited proxies and pay by bandwidth.  
+their datacenter ips start from $0.42 per gigabyte and residential ips starting from $5.88 per gigabyte which is kinda expensive.  
 i tried using their datacenter ips but either they are blocked by twitch or luminati doesn't allow requests to twitch.  
 they worked for maybe one hour before i experienced these blocks.
 
